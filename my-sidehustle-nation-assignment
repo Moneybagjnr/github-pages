@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Side Hustle Nation: Make Money in Your Spare Time</title>
+    <link href="styles2.css" rel="stylesheet" />
+  </head>
+    <header class="main-header">
+    <div class="header">
+      <a href="file:///C:/Users/user/Desktop/HTML%20CLASS/sidehustlenation.html"
+        ><img src="Side Hustle Real 2.png" alt="Side Hustle Logo"
+      /></a></div>
+      <a href="https://www.sidehustlenation.com/start" style="color: #000">start here</a>
+      <a href="https://www.sidehustlenation.com/get-ideas" style="color:#000">Get ideas</a>
+      <a href="https://www.sidehustlenation.com/side-hustle-show"
+      style="color:#000">the side hustle show</a
+      >
+      <a href="https://www.sidehustlenation.com/quick-wins" style="color:#000">make money fast</a>
+      <a href="https://www.sidehustlenation.com/courses" style="color:#000">Courses</a>
+      <a href="https://www.sidehustlenation.com/reviews" style="color:#000">reviews</a>
+    </header>
+    <article>
+    <div class="top-section">
+      <h1>Let's Build Job-Free Income</h1>
+      <button type="submit">Start Here</button>
+    </div>
+    <div class="mid-section">
+    <h1>You Can Escape the Rat Race</h1>
+    <div class="mid-section-1">
+      <div class="mid-section-center">
+    <a href="https://www.sidehustlenation.com/best-side-hustles" target="_blank"
+      ><img src="axe.png" alt="axe"
+    /></a>
+    <h3>Create New Income Streams</h3>
+    <p>
+      Stop livng paycheck to paycheck — take back control of your financial future
+    </p></div>
+  <div class="mid-section-center-2">
+    <a href="#"><img src="Heart Image.png" alt="heart image" /></a>
+    <h3>Build a Business You Love</h3>
+    <p>The last thing you need is a second job you hate.</p></div>
+    <div class="mid-section-center-3">
+    <a href="#"><img src="Bar Chat.jpeg" alt="bar chat" /></a>
+    <h3>Ditch the 9-5</h3>
+    <p>
+      Leave the cubicle grind behind and reach financial independence for life
+    </p></div>
+    </div>
+    </div>
+    <div class="start">
+    <h1>Start by Finding Your Side Husle:</h1>
+    <div class="button-1">
+    <p class="mid-paragraph">Take the free 2-minute quiz</p>
+    <button type="submit">✔ Yes — Guide me!</button>
+    </div>
+    </div>
+    <div class="center-text">
+    <p class="center-text-0">The New York Times</p>
+    <div class="center-text-1">
+    <img
+      src="Screenshot_19-12-2024_171418_www.sidehustlenation.com.jpeg"
+      alt="The New York Times Logo"
+    /></div>
+    <h3 class="center-text-2">FORTUNE</h3>
+    <div class="center-text-3">
+    <img src="Ted.jpeg" alt="Ted Logo"/>
+    </div>
+    <h3 class="center-text-4">Entrepreneur</h3>
+</div>
+<div class="semi-mid-text">
+    <h1 class="semi-mid-text-0">Hi, I'm Nick</h1>
+    <br><p>Hi, I'm Nick I used to have a real job, but I found a way out.</p></br>
+    <br><p>My escape route was a side hustle business I built in my spare time — and you can do it too.</p></br> 
+      <br><p>Today I help thousands of people like you earn extra money and
+      grow meaningful businesses.</p></br>
+      <br><p>Because even if you don't have a business idea      right now, you know there's more to life than punching the clock for 30
+      years.</p></br>
+      </div>
+      <div class="content">
+  <h1>How It Works</h1>
+  <ol>
+    <li>Find a<a href="https://www.sidehustlenation.com/ideas" style="color:#70ad47"> side hustle idea.</a></li>
+    <li>Join <a href="https://www.sidehustlenation.com/fb" style="color:#70ad47">the global community.</a></li>
+    <li><a href="https://www.sidehustlenation.com/grow" style="color:#70ad47">Grow your business.</a></li>
+    <li><a href="https://www.sidehustlenation.com/entrepreneurship/productivity" style="color:#70ad47">Master your time.</a></li>
+    <li>Quit the day job.</li>
+  </ol>
+  </div>
+  <div class="down-section-1">
+  <h1>You're Not Alone:</h1>
+  <h1 class="semi-down-section">Join the 100,000 Who Get My Best Stuff via Email</h1>
+</div>
+<div class="input-button">
+  <input type="Name" placeholder="Name" required="Name"/>
+  <input type="email" placeholder="Email" required />
+  <button type="submit">I'm a Hustler</button>
+  </div>
+  <div class="down-section-2">
+    <div class="down-section-input">
+  <P>"Best Entrepreneurship Blog."</P>
+  <p>—PlutusAwards.com</p>
+  </div>
+  <div class="down-section-input-2">
+  <p>"Best Small Business Blog."</p>
+  <p>—FitSmallBusiness.com</p>
+  </div>
+  <div class="down-section-input-3">
+  <p>"Top Blog on Starting a Business."</p>
+  <p>—NectJobs.com</p>
+  </div>
+  </div>
+
+  <h3>Still Scrolling?</h3>
+   <h1>Here Are 70 Legit Ways to Make Extra Money</h1>
+
+   <button type="submit">Show Me!</button>
+   <h4>Usually Hustling, Ocassionally Social</h4>
+<a href="https://www.facebook.com/groups/sidehustlenation" target="_blank"><img src="facebook.png" alt="facebook"/></a>
+<a href="https://www.youtube.com/nickloper" target="_blank"><img src="Youtube.png" alt="youtube"/></a>
+<a href="https://www.linkedin.com/in/nickloper" target="_blank"><img src="Linkedin.png" alt="linkedin"/></a>
+<a href="https://twitter.com/nloper" target="_blank"><img src="Twitter.png" alt="twitter"/></a>
+
+<img src="For the planet.png" alt="for the planet logo"/>
+<img src="Plutus Award.png" alt="plutus awards logo"/>
+<p><strong>The Company</strong></p>
+<p><a href="https://www.sidehustlenation.com/about" target="_blank">About</a></p>
+<p><a href="https://www.sidehustlenation.com/contact" target="_blank">Contact</a></p>
+<p><a href="https://amzn.to/2pLY8Ni" target="_blank">Books</a></p>
+<p><a href="https://www.sidehustlenation.com/advertise" target="_blank">Advertise</a></p>
+<p><a href="https://www.sidehustlenation.com/press" target="_blank">Media</a></p>
+<p>4580 Klahanie Dr SE #155
+  Sammamish, WA 98029
+  925-365-6671</p>
+  <p><strong>Free Resources</strong></p>
+  <p><a href="https://www.sidehustlenation.com/blog" target="_blank">Blog</a></p>
+  <p><a href="https://www.sidehustlenation.com/fb" target="_blank">Community</a></p>
+  <p><a href="https://www.sidehustlenation.com/500" target="_blank">$500 Challenge</a></p>
+  <p><a href="https://hustle.show" target="_blank">Personalized Playlists</a></p>
+  <p><a href="https://www.sidehustlenation.com/quiz" target="_blank">Side Hustle Quiz</a></p> 
+  <p><strong>The Fine Print</strong></p> 
+  <p><a href="https://www.sidehustlenation.com/terms" target="_blank">Terms of Use</a></p> 
+  <p><a href="https://www.sidehustlenation.com/privacy" target="_blank">Privacy</a></p> 
+  <p><a href="https://www.sidehustlenation.com/disclosure" target="_blank">How We Make Money</a></p> 
+  <p><a href="https://www.sidehustlenation.com/ccpa" target="_blank">CCPA</a></p>
+  <p><a href="https://www.sidehustlenation.com/do-not-sell-my-personal-information" target="_blank">Do Not Sell My Personal Information</a></p>
+  <p>As an Amazon Associate, we earn from qualifying purchases.</p>
+</article>
+</body>
+</html>
